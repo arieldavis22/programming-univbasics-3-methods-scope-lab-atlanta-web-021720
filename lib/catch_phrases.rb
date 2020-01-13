@@ -12,3 +12,8 @@ def link
   zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda
 end
+
+def any_phrase(phrase)
+  phrase = "Do A Barrel Roll\n"
+  put phrase
+end
